@@ -1,2 +1,2 @@
-# commands_git
+# Commands Git
 Learning some Git commands.
