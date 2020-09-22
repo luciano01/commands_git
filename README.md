@@ -46,3 +46,6 @@ Learning some Git commands.
 
 #### Status
 - git status
+
+#### Update list of branchs
+- git remote update origin --prune
